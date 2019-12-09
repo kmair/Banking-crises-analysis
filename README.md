@@ -1,4 +1,4 @@
-# Banking-crises-analysis
+# Banking Crises Analysis
 This repository analyzes and predicts the banking crises in African countries
 
 The Notebooks are numerically ordered and go from exploratory data analysis, modelling the features and predicting the Banking Crises for 
